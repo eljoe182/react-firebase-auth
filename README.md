@@ -1,1 +1,1 @@
-# React authentication whit firebase
+# React authentication with firebase
